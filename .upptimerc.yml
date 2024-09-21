@@ -12,7 +12,9 @@ sites:
     port: 25565
     check: "tpc-ping"
   - name: ekr!kiseki
-    url: https://kiseki.ekr.moe//
+    url: https://kiseki.ekr.moe/
+    expectedStatusCodes:
+      - 404
   - name: ekr!blog
     url: https://blog.ekr.moe/
   - name: "node-ichi"
