@@ -27,7 +27,7 @@ sites:
     check: "tcp-ping"
   - name: "node-san"
     url: san.ekr.moe
-    port: 80
+    port: 52729
     check: "tcp-ping"
 
 status-website:
