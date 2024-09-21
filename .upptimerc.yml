@@ -3,13 +3,30 @@ owner: JustLian # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: www.ekr.moe
+    url: https://www.ekr.moe
+  - name: proto
+    url: $URL_PROTO
+  - name: ekr!mc
+    url: mc.ekr.moe
+    port: 25565
+    check: "tpc-ping"
+  - name: ekr!kiseki
+    url: https://kiseki.ekr.moe//
+  - name: ekr!blog
+    url: https://blog.ekr.moe/
+  - name: "node-ichi"
+    url: ichi.ekr.moe
     port: 80
     check: "tcp-ping"
-    ipv6: true
+  - name: "node-ni"
+    url: ni.ekr.moe
+    port: 80
+    check: "tcp-ping"
+  - name: "node-san"
+    url: san.ekr.moe
+    port: 80
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
