@@ -37,13 +37,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/enkuri/assets/master/ekr-logo.png
   name: ekr!status
-  introTitle: "Live statuses of all ekr! services"
+  introTitle: "Live status of all ekr! services"
   introMessage: "This page updates in real time every 5 minutes. You can join our [Telegram channel](https://t.me/ekr_status) for live updates!"
   navbar:
-    - title: "!status"
+    - title: "status"
       href: /
-    - title: "!home"
+    - title: "home"
       href: https://www.ekr.moe
-
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/enkuri/assets/master/css/status.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
