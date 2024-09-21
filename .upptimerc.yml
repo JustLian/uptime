@@ -46,6 +46,6 @@ status-website:
       href: https://www.ekr.moe
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/enkuri/assets/master/css/status.css
+      href: https://raw.githubusercontent.com/enkuri/assets/refs/heads/main/css/status.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
