@@ -64,7 +64,7 @@
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.99%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.65%",
     "time": 516,
     "timeDay": 621,
@@ -165,9 +165,9 @@
     "url": "san.ekr.moe",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-san",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -177,6 +177,7 @@
     "timeMonth": 120,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2025-04-22": 0,
       "2024-09-21": 28
     }
   }
