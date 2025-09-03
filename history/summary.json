@@ -90,12 +90,12 @@
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.35%",
-    "uptimeMonth": "97.30%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.24%",
     "time": 1204,
     "timeDay": 668,
     "timeWeek": 704,
-    "timeMonth": 771,
+    "timeMonth": 765,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2025-09-01": 570,
@@ -142,9 +142,9 @@
     "url": "ichi.ekr.moe",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-ichi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,6 +154,7 @@
     "timeMonth": 106,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2025-09-03": 0,
       "2024-09-21": 21
     }
   },
